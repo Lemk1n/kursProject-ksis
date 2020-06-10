@@ -1,0 +1,5 @@
+D:\programming\4 semestr\КСиС\курсач\server\Network\bin\Debug\Network.dll
+D:\programming\4 semestr\КСиС\курсач\server\Network\bin\Debug\Network.pdb
+D:\programming\4 semestr\КСиС\курсач\server\Network\obj\Debug\Network.dll
+D:\programming\4 semestr\КСиС\курсач\server\Network\obj\Debug\Network.pdb
+D:\programming\4 semestr\КСиС\курсач\server\Network\obj\Debug\TcpProtocol_DLL.csprojResolveAssemblyReference.cache
